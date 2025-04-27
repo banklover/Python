@@ -11,6 +11,7 @@ import sys
     5. Center align the text and set a larger font size.
     6. Set the layout for the window.
     7. Show the window.
+    
     Author: Peter Lee, Github Copilot
     Date:   Apr. 3, 2025
 """
