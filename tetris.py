@@ -136,7 +136,7 @@ def main():
                         current_piece.rotate()
                         current_piece.rotate()
 
-        draw_grid(screen, grid)
+        draw_grid(scgit config pull.rebase false  # mergereen, grid)
         pygame.display.update()
 
     pygame.quit()
